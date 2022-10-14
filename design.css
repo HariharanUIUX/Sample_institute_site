@@ -1,0 +1,123 @@
+body{
+
+	background-color:ivory;
+	}
+
+
+h1{
+	color:green;
+	}
+
+
+
+img{
+	border-color:red;
+	border: 5px red solid;
+	}
+
+		/*  left table start */
+
+#left a:link{
+	color:brown;
+	
+	
+}
+#lefttable a:visited{
+ 	color:red;
+}
+
+#lefttable a:hover{
+	color:orange;
+}
+#lefttable a:active{
+	color:black;
+}
+
+#lefttable table{
+	border-color:skyblue;
+}
+
+
+ #lefttable a{
+	text-decoration:none;
+	color:brown;
+		}
+				/* left table end */
+
+				/*   top table  start  */
+
+#top a{
+	text-decoration:none;
+}
+#top a:link{
+	color:brown;
+	
+	
+}
+#top a:visited{
+ 	color:red;
+}
+
+#top a:hover{
+	color:black;
+}
+#top a:active{
+	color:orange;
+}
+#top table{
+	border-color:skyblue;
+}
+
+				/* top end */
+
+
+			/*right side table start*/
+
+#right table{
+	text-align:center;
+	border-color:skyblue;
+	
+}
+			/* right side table end */
+
+
+			/* copyrights start */
+#cr a{
+	text-decoration:none;
+	
+}
+#cr a:hover{
+	color:orange;
+}
+#cr table{
+	color: blue;
+	
+}
+			/* copyrights end */
+
+
+			/*about us table start*/
+#car table{
+	border: 3px solid darkblue;
+	border-radius:3px;
+
+}
+			/*about us table end*/
+
+
+				/* Form page design start*/
+#f1{
+	background-color:rgb(100,120,130);
+
+}	
+#f1 table{
+	align:center;
+
+}
+			/* Form page design end*/
+
+			/*Header Image table design start*/
+#a img{
+	
+	border-color:transparent;
+}
